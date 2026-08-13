@@ -1,0 +1,22 @@
+{
+  "name": "Konsmia",
+  "short_name": "Konsmia",
+  "description": "Konsmia — Tribe of the Future social platform with AI guided experiences.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#04080f",
+  "theme_color": "#04080f",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [],
+  "categories": ["social", "productivity", "utilities"],
+  "lang": "en"
+}

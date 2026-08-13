@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-label="Konsmia icon">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#72d7ff" />
+      <stop offset="50%" stop-color="#8d63ff" />
+      <stop offset="100%" stop-color="#ffffff" />
+    </linearGradient>
+  </defs>
+  <rect width="256" height="256" rx="56" fill="#04080f"/>
+  <circle cx="128" cy="128" r="80" fill="none" stroke="url(#g)" stroke-width="16"/>
+  <path d="M86 112c18-24 38-36 62-36 27 0 50 16 58 42-13-11-29-16-48-15-20 1-34 8-72 9zm18 44c11 17 31 28 53 28 25 0 47-13 58-34-10 17-29 31-56 32-18 1-40-8-55-26z" fill="url(#g)"/>
+  <circle cx="128" cy="128" r="12" fill="#ffffff"/>
+</svg>

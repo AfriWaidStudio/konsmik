@@ -1,0 +1,4 @@
+project_id = "zojheexpxsssuaerpqqv"
+
+[functions.konsai-chat]
+verify_jwt = false
